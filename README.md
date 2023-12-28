@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EricTrincaNogueira
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning Python HarvardX.
 - 📫 You can reach me at my e-mail, nogueira.eric@hotmail.com
 
