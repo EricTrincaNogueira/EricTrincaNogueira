@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EricTrincaNogueira
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS and Javascript at HarvardX
+- 🌱 I’m currently learning Python HarvardX, and have knowlege at HTML, CSS and Javascript.
 
 - 📫 You can reach me at my e-mail, nogueira.eric@hotmail.com
 
